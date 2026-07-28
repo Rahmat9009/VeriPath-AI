@@ -56,3 +56,8 @@ frontend/.next/
 frontend/.env
 frontend/.env.*
 !frontend/.env.example
+
+# Local Claude skills
+.claude/
+skills-lock.json
+
