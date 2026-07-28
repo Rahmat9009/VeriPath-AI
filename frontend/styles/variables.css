@@ -1,0 +1,23 @@
+/* Veripath AI Variables */
+
+:root {
+  /* Primary Colors (from logo) */
+  --primary-bright: #0073e6; /* Sharp blue from shield symbolism */
+  --primary-dark: #004d96; /* Deep navy for trustworthiness */
+  --off-white: #f8faff; /* Complementary to logo's transparency */
+  --trust-brown: #4b3d1d; /* Earth tone for assurance */
+
+  /* Risk Indicators */
+  --green-risk: #28a745;
+  --amber-risk: #ffc107;
+  --red-risk: #dc3545;
+
+  /* Typography & Spacing */
+  --font-sans: 'Inter', sans-serif;
+  --font-bn: 'Noto Sans Bengali', sans-serif;
+  --spacing-unit: 0.5rem;
+  --shadow-depth: 0.2rem 0.3rem 0.5rem rgba(0, 0, 0, 0.1);
+
+  /* Motion Animation Speed */
+  --animation-speed: 0.7s;
+}

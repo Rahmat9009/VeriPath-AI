@@ -1,0 +1,43 @@
+:root {
+  --color-page-bg: oklch(0.985 0.005 240);
+  --color-surface: oklch(1 0 0);
+  --color-primary-text: oklch(0.25 0.05 260);
+  --color-secondary-text: oklch(0.45 0.02 250);
+  --color-border: oklch(0.55 0.15 255 / 0.15);
+  --color-primary-brand: oklch(0.52 0.22 260);
+  --color-primary-brand-hover: oklch(0.45 0.2 260);
+  --color-official-info: oklch(0.75 0.12 255);
+  --color-risk-green: oklch(0.62 0.16 150);
+  --color-risk-amber: oklch(0.72 0.18 85);
+  --color-risk-red: oklch(0.58 0.22 25);
+  --color-focus-ring: oklch(0.52 0.22 260);
+  --color-shadow-1: oklch(0.25 0.05 260 / 0.08);
+  --color-shadow-2: oklch(0.25 0.05 260 / 0.12);
+  --color-shadow-3: oklch(0.25 0.05 260 / 0.18);
+  --color-lighting-accent: oklch(0.75 0.12 255 / 0.15);
+
+  --font-sans: var(--font-sans, Inter);
+  --font-bn: var(--font-bn, "Noto Sans Bengali");
+
+  --spacing-unit: 0.5rem;
+
+  --radius-xs: 0.25rem;
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+
+  --z-index-base: 0;
+  --z-header: 1000;
+  --z-nav: 1100;
+  --z-dropdown: 2000;
+  --z-modal-backdrop: 1500;
+  --z-modal: 1600;
+  --z-popover: 1700;
+  --z-tooltip: 1800;
+  --z-toast: 2000;
+
+  --transition-fast: 150ms;
+  --transition-moderate: 300ms;
+  --transition-slow: 500ms;
+}
